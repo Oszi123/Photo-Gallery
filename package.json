@@ -1,6 +1,6 @@
 {
-  "homepage": "https://oszi123.github.io",
-  "name": "Photo-port",
+  "homepage": "https://oszi123.github.io/Photo-port/",
+  "name": "photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
