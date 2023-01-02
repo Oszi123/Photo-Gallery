@@ -10,7 +10,7 @@ This project uses the Create React App to build a React project hosting a portfo
 * Jest (testing suite)
 
 # Usage
-The page is hosted on GitHub pages at 
+The page is hosted on GitHub pages at  https://oszi123.github.io/Photo-port/
 
 # Screenshot
 <img width="1430" alt="Screen Shot 2023-01-01 at 10 01 43 PM" src="https://user-images.githubusercontent.com/106827018/210200899-aa83e0de-b835-4a20-912f-a6696827a091.png">
