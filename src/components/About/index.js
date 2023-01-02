@@ -13,14 +13,7 @@ function About() {
       />
       <div className="my-2">
         <p>
-          MY NAME IS OSCAR BONILLA I AM A JUNIOR DEVELOPER THAT GRADUATED FROM
-          THE UNIVERSITY OF MIAMI CODING BOOTCAMP PROGRAM. I WAS BORN AND RAISED
-          IN MIAMI, FLORIDA ON AUGUST 10TH, 1996. MY HOBBIES ARE PLAYING
-          MULTIPLE INSTRUMENTS, DRAWING, AND SKATEBOARDING. IN THE BEGINNING OF
-          MY COMPUTER SCIENCE JOURNEY WAS IN 2019, WHERE I WAS SELF TAUGHT IN
-          HTML, CSS, AND JAVASCRIPT. I DECIDED TO TAKE MY EDUCATION TO THE NEXT
-          LEVEL AND I WAS FORTUNATE TO BE ADMITTED TO THE UNIVERSITY OF MIAMI
-          CODING BOOTCAMP PROGRAM WHERE I BECAME A FULL STACK WEB DEVELOPER.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
         </p>
       </div>
     </section>
