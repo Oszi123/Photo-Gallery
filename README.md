@@ -8,7 +8,8 @@ This project uses the Create React App to build a React project hosting a portfo
 * Javascript ES5 and ES6
 * HTML and CSS
 * Jest (testing suite)
-* Usage
+
+# Usage
 The page is hosted on GitHub pages at 
 
 # Screenshot
