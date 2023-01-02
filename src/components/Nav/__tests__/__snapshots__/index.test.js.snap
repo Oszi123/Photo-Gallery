@@ -7,8 +7,9 @@ exports[`Nav component matches snapshot DOM node structure 1`] = `
   >
     <h2>
       <a
-        data-testid="link"
-        href="/"
+        data-testid="about"
+        href="#about"
+         onClick={() => setContactSelected(false)}
       >
         <span
           aria-label="camera"
