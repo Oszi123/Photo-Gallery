@@ -20,7 +20,7 @@ function Nav(props) {
         <a data-testid="about" href="#about"
          onClick={() => setContactSelected(false)}
          >
-          <span role="img" aria-label="camera">
+          <span role="img" aria-label="camera" href="#about">
             {" "}
             📸
           </span>{" "}
